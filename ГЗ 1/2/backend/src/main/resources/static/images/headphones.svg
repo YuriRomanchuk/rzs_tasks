@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f1f5f9"/>
+  <path d="M110 230v-20a90 90 0 0 1 180 0v20" fill="none" stroke="#334155" stroke-width="14" stroke-linecap="round"/>
+  <rect x="90" y="225" width="44" height="80" rx="16" fill="#334155"/>
+  <rect x="266" y="225" width="44" height="80" rx="16" fill="#334155"/>
+  <text x="200" y="360" font-family="sans-serif" font-size="22" fill="#64748b" text-anchor="middle">AudioPro X1</text>
+</svg>

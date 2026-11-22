@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#e2e8f0"/>
+  <circle cx="200" cy="200" r="90" fill="none" stroke="#334155" stroke-width="14"/>
+  <circle cx="200" cy="200" r="46" fill="#334155"/>
+  <text x="200" y="360" font-family="sans-serif" font-size="22" fill="#64748b" text-anchor="middle">AudioPro X1 — вид збоку</text>
+</svg>
